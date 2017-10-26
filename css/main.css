@@ -1,3 +1,256 @@
-/*
- * Estilos de tu proyecto
- */
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.principal {
+	background: #2c3e50;
+	position: fixed;
+	height: 105px;
+	width: 1302px;
+	top: -6px;
+	left: 0px;
+	}
+
+li{ 
+	list-style: none;
+	float: left;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	padding: 18px;
+	}
+
+.p1{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 38px;
+	color: white;
+
+
+	 }
+
+.p2 {
+ 	text-align: right;
+    margin-top: 16px;
+    margin-left: 367px;
+    font-size: 19px;
+}
+
+.p3 {
+	text-align: right;
+	margin-top: -60px;
+	margin-left: 530px;
+	font-size: 19px
+
+
+
+}
+.p4 {
+	text-align: right;
+ 	margin-top: -68px;
+	margin-left: 1029px;
+	font-size: 19px
+	}
+
+.color1 {
+	background-color: #18bc9c;
+	text-align: center;
+	color: #FFFFFFFF;
+	height: 1024px;
+	margin-top: -317px;
+	margin-left: -11px;
+	width: 1300px;
+
+	}
+.monito { 
+ 	margin-top: -560px;
+	margin-left: 480px;
+	position: static;
+	}
+
+.parrafo1 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	margin-top: -47px;
+	margin-left: -529px;
+	font-size: 62px;
+	color: white;
+
+	}
+
+.parrafo2{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	margin-top: -29px;
+	margin-left: -522px;
+	font-size: 24px;
+	color: white;
+
+	}
+
+ .img1{
+ 	width: 350px;
+ 	height: auto;
+ 	float: left;
+ 	margin: 10px;
+ 	padding: 2px;
+ 	margin-left:20px;
+ }
+
+	
+.portafolio2 {
+	width: auto;
+    height: auto;
+    max-width: 100%;
+    min-width: 300px;
+    max-height: 100%;
+    position: relative;
+}
+
+ 
+.tercero {
+	
+ 	background: #18bc9c;
+	position: absolute;
+	height: 484px;
+	width: 1297px;
+	top: 1638px;
+	left: 0px;
+
+	}
+.p5  {
+ 	text-align: right;
+ 	margin-top: 40px;
+	margin-left: 515px;
+	font-size: 50px;
+	color: white;
+	}
+
+.p6 {
+ 	   
+ 	font-size: 20px;
+	margin-top: 5px;
+	margin-right: 623px;
+	margin-left: 265px;
+
+    }
+
+.p7 {  
+ 	font-size: 20px;
+	margin-top: -230px;
+	margin-right: 280px;
+	margin-left: 679px;
+
+	}  
+
+
+div {
+  	margin: .4em 0;
+    }
+
+	div label {
+ 	width: 25%;
+  	float: left;
+	}
+
+.formulario {
+	border: 0px;
+	margin-top: 6px;
+	background-color: white;
+	top: 84px;
+	margin-bottom: 77px;
+	height: 0px;
+	width: 271px;
+	}
+
+.formulario label {
+	left: 63px;
+	text-align: left;
+	top: 136px;
+	margin-bottom: 27px;
+	height: -4px;
+	margin-left: 436px;
+	font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 2rem;
+	line-height: 1.5;
+	}
+
+.formulario div {
+	border-bottom: 1px solid #eee;
+	}
+
+.cuarto {
+	background: #2c3e50;
+	position: absolute;
+	height: 250px;
+	width: 1293px;
+	top: 2542px;
+	left: 0px;
+
+
+	
+}
+ .p8 {
+ 	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-size: 30px;
+	color: white;
+	margin-left: 59px;
+	margin-right: -129px;
+	
+
+
+
+ }
+ .p9 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: right;
+	font-size: 30px;
+	color: white;
+	margin-left: 286px;
+	margin-right: -76px;
+
+ }
+.p10 { 
+	font-family: 'Montserrat', sans-serif;
+	text-align: right;
+	font-size: 30px;
+	color: white;
+	margin-left: 810px;
+	margin-right: 73px;
+	margin-top: -74px;
+
+
+
+}
+
+.p11 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-size: 17px;
+	color: white;
+	margin-left: 50px;
+	margin-right: -134px;
+	margin-top: 0px;
+
+
+}
+.p12 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-size: 17px;
+	color: white;
+	margin-left: 809px;
+	margin-right: 32px;
+	margin-top: -57px;
+
+
+}
+
+.icon {
+	position: relative;
+	font-size: 20px;
+	padding-left: 490px;
+	top:-54px;
+
+}
